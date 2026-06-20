@@ -6,6 +6,7 @@ My LeetCode solutions in Python.
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 125 | Valid Palindrome | Easy | [Python](Solutions/125-valid-palindrome.py) |
 | 136 | Single Number | Easy | [Python](Solutions/136-single-number.py) |
 | 2769 | Find the Maximum Achievable Number | Easy | [Python](Solutions/2769-find-the-maximum-achievable-number.py) |
 | 3760 | Maximum Substrings With Distinct Start | Medium | [Python](Solutions/3760-maximum-substrings-with-distinct-start.py) |
