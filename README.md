@@ -6,6 +6,7 @@ My LeetCode solutions in Python.
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 121 | Best Time to Buy and Sell Stock | Easy | [Python](Solutions/121-best-time-to-buy-and-sell-stock.py) |
 | 125 | Valid Palindrome | Easy | [Python](Solutions/125-valid-palindrome.py) |
 | 136 | Single Number | Easy | [Python](Solutions/136-single-number.py) |
 | 2769 | Find the Maximum Achievable Number | Easy | [Python](Solutions/2769-find-the-maximum-achievable-number.py) |
