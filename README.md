@@ -6,6 +6,7 @@ My LeetCode solutions in Python.
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 66 | Plus One | Easy | [Python](Solutions/66-plus-one.py) |
 | 67 | Add Binary | Easy | [Python](Solutions/67-add-binary.py) |
 | 88 | Merge Sorted Array | Easy | [Python](Solutions/88-merge-sorted-array.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Python](Solutions/121-best-time-to-buy-and-sell-stock.py) |
