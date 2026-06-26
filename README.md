@@ -6,6 +6,7 @@ My LeetCode solutions in Python.
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 35 | Search Insert Position | Easy | [Python](Solutions/35-search-insert-position.py) |
 | 58 | Length of Last Word | Easy | [Python](Solutions/58-length-of-last-word.py) |
 | 66 | Plus One | Easy | [Python](Solutions/66-plus-one.py) |
 | 67 | Add Binary | Easy | [Python](Solutions/67-add-binary.py) |
