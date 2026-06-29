@@ -6,6 +6,7 @@ My LeetCode solutions in Python.
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 14 | Longest Common Prefix | Easy | [Python](Solutions/14-longest-common-prefix.py) |
 | 27 | Remove Element | Easy | [Python](Solutions/27-remove-element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [Python](Solutions/28-find-the-index-of-the-first-occurrence-in-a-string.py) |
 | 35 | Search Insert Position | Easy | [Python](Solutions/35-search-insert-position.py) |
