@@ -6,6 +6,7 @@ My LeetCode solutions in Python.
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 9 | Palindrome Number | Easy | [Python](Solutions/9-palindrome-number.py) |
 | 13 | Roman to Integer | Easy | [Python](Solutions/13-roman-to-integer.py) |
 | 14 | Longest Common Prefix | Easy | [Python](Solutions/14-longest-common-prefix.py) |
 | 27 | Remove Element | Easy | [Python](Solutions/27-remove-element.py) |
