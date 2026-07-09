@@ -26,4 +26,5 @@ My LeetCode solutions in Python.
 | 2769 | Find the Maximum Achievable Number | Easy | [Python](Solutions/2769-find-the-maximum-achievable-number.py) |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | [Python](Solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k.py) |
 | 3760 | Maximum Substrings With Distinct Start | Medium | [Python](Solutions/3760-maximum-substrings-with-distinct-start.py) |
+| 3783 | Mirror Distance of an Integer | Easy | [Python](Solutions/3783-mirror-distance-of-an-integer.py) |
 | 3925 | Concatenate Array With Reverse | Easy | [Python](Solutions/3925-concatenate-array-with-reverse.py) |
