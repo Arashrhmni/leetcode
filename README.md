@@ -24,6 +24,7 @@ My LeetCode solutions in Python.
 | 136 | Single Number | Easy | [Python](Solutions/136-single-number.py) |
 | 238 | Product of Array Except Self | Medium | [Python](Solutions/238-product-of-array-except-self.py) |
 | 2769 | Find the Maximum Achievable Number | Easy | [Python](Solutions/2769-find-the-maximum-achievable-number.py) |
+| 3110 | Score of a String | Easy | [Python](Solutions/3110-score-of-a-string.py) |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | [Python](Solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k.py) |
 | 3668 | Restore Finishing Order | Easy | [Python](Solutions/3668-restore-finishing-order.py) |
 | 3760 | Maximum Substrings With Distinct Start | Medium | [Python](Solutions/3760-maximum-substrings-with-distinct-start.py) |
