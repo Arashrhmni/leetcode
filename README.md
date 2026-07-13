@@ -23,6 +23,7 @@ My LeetCode solutions in Python.
 | 125 | Valid Palindrome | Easy | [Python](Solutions/125-valid-palindrome.py) |
 | 136 | Single Number | Easy | [Python](Solutions/136-single-number.py) |
 | 217 | Contains Duplicate | Easy | [Python](Solutions/217-contains-duplicate.py) |
+| 231 | Power of Two | Easy | [Python](Solutions/231-power-of-two.py) |
 | 238 | Product of Array Except Self | Medium | [Python](Solutions/238-product-of-array-except-self.py) |
 | 2769 | Find the Maximum Achievable Number | Easy | [Python](Solutions/2769-find-the-maximum-achievable-number.py) |
 | 2942 | Find Words Containing Character | Easy | [Python](Solutions/2942-find-words-containing-character.py) |
