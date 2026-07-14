@@ -8,6 +8,7 @@ My LeetCode solutions in Python.
 |---|---------|------------|----------|
 | 1 | Two Sum | Easy | [Python](Solutions/1-two-sum.py) |
 | 9 | Palindrome Number | Easy | [Python](Solutions/9-palindrome-number.py) |
+| 10 | Regular Expression Matching | Hard | [Python](Solutions/10-regular-expression-matching.py) |
 | 13 | Roman to Integer | Easy | [Python](Solutions/13-roman-to-integer.py) |
 | 14 | Longest Common Prefix | Easy | [Python](Solutions/14-longest-common-prefix.py) |
 | 21 | Merge Two Sorted Lists | Easy | [Python](Solutions/21-merge-two-sorted-lists.py) |
