@@ -64,8 +64,8 @@ Standalone problems I wrote and solved myself to build core Python skills.
 | Day 1 | Clean Missing Order Values | [Python](Practice/Day1/5-missing-value.py) |
 | Day 2 | Top 3 Restaurants by Revenue | [Python](Practice/Day2/1-top-restaurants.py) |
 | Day 2 | Remove Duplicate Order IDs | [Python](Practice/Day2/2-remove-duplicate-order-ids.py) |
-| Day 2 | Filter Orders by Allowed Customer IDs | [Python](Practice/Day2/3-filter-orders-by-allowed-cus.py) |
-| Day 2 | Average Order Value per Country | [Python](Practice/Day2/4-average-order-value-per-co.py) |
+| Day 2 | Filter Orders by Allowed Customer IDs | [Python](Practice/Day2/3-filter-orders-by-allowed-customer-ids.py) |
+| Day 2 | Average Order Value per Country | [Python](Practice/Day2/4-average-order-value-per-country.py) |
 | Day 2 | Most Frequent Customer | [Python](Practice/Day2/5-most-frequent-orders.py) |
 | Day 4 | Character Frequency | [Python](Practice/Day4/1-character-frequency.py) |
 | Day 4 | Most Frequent Item | [Python](Practice/Day4/2-most-frequent-item.py) |
