@@ -1,8 +1,21 @@
 # LeetCode Solutions
 
-My LeetCode solutions in Python.
+This repository contains my Python solutions to LeetCode problems, along with standalone practice exercises I work through to strengthen my fundamentals.
 
-## Progress
+## Topics Covered
+- Arrays & Strings
+- Hash Maps & Sets
+- Sliding Window
+- Binary Search
+- Linked Lists
+- Dynamic Programming
+- Data Cleaning & Aggregation
+
+Each solution is written in Python and focuses on readability and efficiency.
+
+---
+
+## LeetCode Problems
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
@@ -35,3 +48,32 @@ My LeetCode solutions in Python.
 | 3760 | Maximum Substrings With Distinct Start | Medium | [Python](Solutions/3760-maximum-substrings-with-distinct-start.py) |
 | 3783 | Mirror Distance of an Integer | Easy | [Python](Solutions/3783-mirror-distance-of-an-integer.py) |
 | 3925 | Concatenate Array With Reverse | Easy | [Python](Solutions/3925-concatenate-array-with-reverse.py) |
+
+---
+
+## Practice Exercises
+
+Standalone problems I wrote and solved myself to build core Python skills.
+
+| Day | Problem | File |
+|-----|---------|------|
+| Day 1 | Return Even Numbers | [Python](Practice/Day1/1-return-even-nums.py) |
+| Day 1 | Customer With Highest Spend | [Python](Practice/Day1/2-list-of-orders.py) |
+| Day 1 | String Length Dictionary | [Python](Practice/Day1/3-string-length-dict.py) |
+| Day 1 | Remove Duplicates (Keep Order) | [Python](Practice/Day1/4-remove-dup-list.py) |
+| Day 1 | Clean Missing Order Values | [Python](Practice/Day1/5-missing-value.py) |
+| Day 2 | Top 3 Restaurants by Revenue | [Python](Practice/Day2/1-top-restaurants.py) |
+| Day 2 | Remove Duplicate Order IDs | [Python](Practice/Day2/2-remove-duplicate-order-ids.py) |
+| Day 2 | Filter Orders by Customer IDs | [Python](Practice/Day2/3-filter-orders-by-customer-ids.py) |
+| Day 2 | Average Order Value per Country | [Python](Practice/Day2/4-average-order-value-per-country.py) |
+| Day 2 | Most Frequent Customer | [Python](Practice/Day2/5-most-frequent-orders.py) |
+| Day 4 | Character Frequency | [Python](Practice/Day4/1-character-frequency.py) |
+| Day 4 | Most Frequent Item | [Python](Practice/Day4/2-most-frequent-item.py) |
+| Day 4 | Theater Visibility | [Python](Practice/Day4/3-theater-visibility.py) |
+| Day 4 | Clean and Validate Orders | [Python](Practice/Day4/4-clean-validate-orders.py) |
+| Day 4 | Group Orders by Status | [Python](Practice/Day4/5-group-orders-by-status.py) |
+| Day 4 | Latest Status per Order | [Python](Practice/Day4/6-latest-status-per-order.py) |
+| Day 4 | Find Duplicate Order IDs | [Python](Practice/Day4/7-find-duplicate-order-ids.py) |
+| Day 4 | Null Percentage Quality Check | [Python](Practice/Day4/8-null-percentage-quality-check.py) |
+| Day 4 | Top N Orders by Value | [Python](Practice/Day4/9-top-n-orders.py) |
+| Day 4 | String Compression | [Python](Practice/Day4/10-string-compression.py) |
