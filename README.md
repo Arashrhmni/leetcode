@@ -21,6 +21,7 @@ Each solution is written in Python and focuses on readability and efficiency.
 |---|---------|------------|----------|
 | 1 | Two Sum | Easy | [Python](Solutions/1-two-sum.py) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Python](Solutions/3-longest-substring-without-repeating-characters.py) |
+| 7 | Reverse Integer | Medium | [Python](Solutions/7-reverse-integer.py) |
 | 9 | Palindrome Number | Easy | [Python](Solutions/9-palindrome-number.py) |
 | 10 | Regular Expression Matching | Hard | [Python](Solutions/10-regular-expression-matching.py) |
 | 13 | Roman to Integer | Easy | [Python](Solutions/13-roman-to-integer.py) |
